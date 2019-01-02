@@ -9,3 +9,6 @@ echo "module.exports = {extends: ['@commitlint/config-conventional']};" > commit
 
 # https://marionebl.github.io/commitlint/#/guides-local-setup?id=install-husky
 npm install --save-dev husky
+
+# https://github.com/conventional-changelog/conventional-changelog
+npm install -g conventional-changelog-cli

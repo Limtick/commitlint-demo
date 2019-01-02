@@ -4,7 +4,8 @@
   "description": "commitlint usage demo",
   "main": "index.js",
   "scripts": {
-    "commit": "commit"
+    "commit": "commit",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "husky": {
     "hooks": {
