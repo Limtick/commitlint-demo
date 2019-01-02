@@ -12,3 +12,6 @@ npm install --save-dev husky
 
 # https://github.com/conventional-changelog/conventional-changelog
 npm install -g conventional-changelog-cli
+
+# https://github.com/conventional-changelog/standard-version
+npm i --save-dev standard-version
