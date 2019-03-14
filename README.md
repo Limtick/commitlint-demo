@@ -24,7 +24,7 @@
 }
 ```
 
-### [angular](https://github.com/marionebl/commitlint/tree/master/%40commitlint/config-conventional#type-enum)
+### [angular](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-angular)
 
 > 一个 git message 规范
 >
